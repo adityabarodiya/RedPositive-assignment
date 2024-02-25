@@ -37,7 +37,6 @@
 
 - Frontend: Next.js, Tailwind CSS
 - Backend: Node.js, Express.js, MongoDB
-- Hosting: Heroku or Netlify
 
 ### Local Setup:
 
