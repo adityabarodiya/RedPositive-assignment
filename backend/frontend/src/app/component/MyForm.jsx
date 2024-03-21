@@ -14,7 +14,7 @@ const validate = (values) => {
     errors.name = "Required";
   }
 
-  // Add validation rules for other fields
+  
 
   return errors;
 };
